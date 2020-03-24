@@ -1,0 +1,16 @@
+.bgcolor {
+    background-color: #481380;
+}
+
+.fav {
+    color: #ffe2ff !important;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+.navbarcl {
+    color: #c19aea !important;
+}
+
+.navbarcl:hover {
+    color: #ffe2ff !important;
+}

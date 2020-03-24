@@ -1,0 +1,26 @@
+.bgcolor {
+    background-color: #481380;
+    
+}
+
+.nodec{
+    text-decoration: none;
+    color: #c19aea;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+.nodec:hover{
+    text-decoration: none;
+    color: #ffe2ff;
+}
+
+.socials li{
+    color: #fff;
+    font-size: 2rem;
+    display: inline;
+    padding:0 10px;
+    
+}
+.socials li a{
+    color: #fff;
+}
